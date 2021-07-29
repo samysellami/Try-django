@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings": 
+	{
+    	"python_interpreter": "/home/sami/.local/share/virtualenvs/try_django-gAijlvft/bin/python3.6"
+	}
+}
